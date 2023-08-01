@@ -5,24 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="24cb7300-f44a-4d77-94cf-34b120133a0c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/config/database.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/flowers.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sql/queries.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LatestPosts.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PostMapper.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/about.twig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/base.twig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/blog.twig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/index.twig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/not-found.twig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/post.twig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/section/about.twig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/section/navigation.twig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/section/pagination.twig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/section/posts.twig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/index.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/post.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/post.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/section/navigation.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/section/navigation.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/section/posts.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/section/posts.twig" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,25 +54,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/var/www/php-blog/templates",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/var/www/php-blog/templates&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "DatabaseDriversLRU": [
-      "mysql"
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/templates" />
@@ -105,6 +92,7 @@
       <workItem from="1687870496884" duration="23260000" />
       <workItem from="1688146986689" duration="6286000" />
       <workItem from="1688663452950" duration="25822000" />
+      <workItem from="1690885698909" duration="33000" />
     </task>
     <servers />
   </component>
